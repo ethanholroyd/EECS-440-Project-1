@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Input/Actions/Hands/IA_Hand_IndexCurl_Left.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/Affordance.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/AffQuit.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/AffToggleActors.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+			]
+		}
+	]
+}
