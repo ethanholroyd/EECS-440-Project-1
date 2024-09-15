@@ -11,7 +11,15 @@
 				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/Affordance.uasset",
 				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/AffQuit.uasset",
 				"D:/Unreal/EECS-440-Project-1/P1/Content/Interactions/AffToggleActors.uasset",
-				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/audio/205167__justingregoire__computer_lab_roomtone_01.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/audio/ambience.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/Blueprints/Trash_Blueprint.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/Blueprints/Trash_can_Blueprint.uasset",
+				"E:/Unreal/UE_5.4/Engine/Content/BasicShapes/Sphere.uasset",
+				"E:/Unreal/UE_5.4/Engine/Content/BasicShapes/Cylinder.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"D:/Unreal/EECS-440-Project-1/P1/Content/VRTemplate/Blueprints/Menu.uasset"
 			]
 		}
 	]
